@@ -3,7 +3,8 @@ import numpy as np
 import argprase
 
 """
-
+This is the program that creates a cany image as wallpaper.
+The image will be binary-color, edge-only, 1440*810px from left-top. 
 """
 
 #Acitvate argparse, and add the first cmd arg.
